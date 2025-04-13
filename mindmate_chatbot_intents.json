@@ -1,0 +1,105 @@
+{
+  "intents": [
+    {
+      "tag": "depression_questions",
+      "patterns": [
+        "What are common signs of depression?",
+        "How can I cope with depression on a daily basis?"
+      ],
+      "responses": [
+        "Persistent feelings of sadness or emptiness.",
+        "Loss of interest in activities once enjoyed.",
+        "Changes in sleep or appetite patterns.",
+        "Create and stick to a small daily routine.",
+        "Engage in light physical activity or walks.",
+        "Practice mindfulness or gratitude journaling."
+      ]
+    },
+    {
+      "tag": "general_mental_health",
+      "patterns": [
+        "Who should I talk to if I think I'm depressed?",
+        "What should I do if I feel mentally unwell but don\u2019t know what\u2019s wrong?"
+      ],
+      "responses": [
+        "A psychiatrist at MIND MATE.",
+        "One of our licensed doctors.",
+        "A clinical psychologist for therapy sessions.",
+        "Acknowledge your feelings and seek help.",
+        "Consult a doctor at MIND MATE for guidance.",
+        "Try self-care methods like sleep, journaling, and rest."
+      ]
+    },
+    {
+      "tag": "anxiety_questions",
+      "patterns": [
+        "What are the signs that someone may be experiencing anxiety?",
+        "How can I manage anxiety when it gets overwhelming?"
+      ],
+      "responses": [
+        "Excessive worrying about daily situations.",
+        "Difficulty concentrating or staying calm.",
+        "Physical symptoms like a racing heart or sweating.",
+        "Practice deep breathing or grounding techniques.",
+        "Reach out to a MIND MATE specialist for guidance.",
+        "Reduce caffeine and get enough rest."
+      ]
+    },
+    {
+      "tag": "paranoia_questions",
+      "patterns": [
+        "What are the symptoms of paranoia?",
+        "How can someone manage feelings of paranoia?"
+      ],
+      "responses": [
+        "Mistrust or suspicion of others without reason.",
+        "Feeling watched, followed, or judged constantly.",
+        "Difficulty relaxing due to fear of being harmed.",
+        "Track and challenge thoughts in a journal.",
+        "Avoid alcohol or drugs that may worsen symptoms.",
+        "Speak to a MIND MATE psychiatrist or doctor."
+      ]
+    },
+    {
+      "tag": "technical_support_questions",
+      "patterns": [
+        "I'm having trouble logging into my MIND MATE account."
+      ],
+      "responses": [
+        "Make sure you're using the correct email and password.",
+        "Try resetting your password from the login page.",
+        "Contact our technical support team for assistance."
+      ]
+    },
+    {
+      "tag": "billing_questions",
+      "patterns": [
+        "What are the charges for therapy sessions at MIND MATE?",
+        "How much do mental health medications cost?"
+      ],
+      "responses": [
+        "One-on-one doctor sessions cost $49 per hour.",
+        "Psychiatrist consultations are $55 per session.",
+        "Weekly therapy packages start at $124.",
+        "Anti-anxiety supplements range from $16.",
+        "Antidepressants start at $26.",
+        "Sleep aids and calming tablets cost around $22."
+      ]
+    },
+    {
+      "tag": "shipping_questions",
+      "patterns": [
+        "Do you ship antidepressants?",
+        "Can I get supplements delivered outside Kenya?"
+      ],
+      "responses": [
+        "Yes, MIND MATE offers local and international shipping.",
+        "Shipping takes 3-7 business days depending on location.",
+        "Prescriptions are required before shipment.",
+        "Yes, we deliver to selected countries.",
+        "International shipping fees may apply.",
+        "Check with our support team for availability."
+      ]
+    }
+  ]
+}
